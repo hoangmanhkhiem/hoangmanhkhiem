@@ -3,11 +3,7 @@
 [![Twitter: hoangmanhkhiem](https://img.shields.io/twitter/follow/hoangmanhkhiem?style=social)](https://twitter.com/hoangmanhkhiem)
 [![Linkedin: hoangmanhkhiem](https://img.shields.io/badge/-hoangmanhkhiem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoangmanhkhiem/)](https://www.linkedin.com/in/hoangmanhkhiem/)
 [![GitHub: hoangmanhkhiem](https://img.shields.io/github/followers/hoangmanhkhiem?label=follow&style=social)](https://github.com/hoangmanhkhiem)
-
-<p align="center">
-    <img align="center" alt="PNG" src="https://user-images.githubusercontent.com/88273015/133915703-61533620-a9b9-48ea-b6cd-d42d1e6e7e76.gif" width='200'>
-
-    
+  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -47,7 +43,7 @@ class About extends Me {
             }
         }
     }
-    static buyMeACoffee () {
+    static donate () {
         if (you_like_what_i_do)
             try {
                 maybe_consider_donate();
