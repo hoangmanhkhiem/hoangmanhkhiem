@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Mew+!;Welcome+to+my+Github+!)](https://github.com/hoangmanhkhiem)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Khiem+!;Welcome+to+my+Github+!)](https://github.com/hoangmanhkhiem)
 
-[![Twitter: hoangmanhkhiem](https://img.shields.io/twitter/follow/procoder_mew?style=social)](https://twitter.com/hoangmanhkhiem)
-[![Linkedin: hoangmanhkhiem](https://img.shields.io/badge/-ProCoderMew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoangmanhkhiem/)](https://www.linkedin.com/in/hoangmanhkhiem/)
-[![GitHub: hoangmanhkhiem](https://img.shields.io/github/followers/ProCoderMew?label=follow&style=social)](https://github.com/ProCoderMew)
+[![Twitter: hoangmanhkhiem](https://img.shields.io/twitter/follow/hoangmanhkhiem?style=social)](https://twitter.com/hoangmanhkhiem)
+[![Linkedin: hoangmanhkhiem](https://img.shields.io/badge/-hoangmanhkhiem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoangmanhkhiem/)](https://www.linkedin.com/in/hoangmanhkhiem/)
+[![GitHub: hoangmanhkhiem](https://img.shields.io/github/followers/hoangmanhkhiem?label=follow&style=social)](https://github.com/hoangmanhkhiem)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -10,6 +10,7 @@
 ```javascript
 class About extends Me {
     static fullName = "Hoàng Mạnh Khiêm";
+    static nickname = "K19";
     static getCurrentWorkplace () {
         return {
             Workplace: {
