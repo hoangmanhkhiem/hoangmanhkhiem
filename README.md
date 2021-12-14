@@ -47,7 +47,8 @@ class About extends Me {
     static buyMeACoffee () {
         if (you_like_what_i_do)
             try {
-                maybe_consider_donate()  
+                maybe_consider_donate();
+                return 'https://k19.info/donate'; 
             } catch {
                 return 'Thanks for visiting !';
             }
