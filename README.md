@@ -35,6 +35,7 @@ class About extends Me {
             Social: {
                 Website: 'https://k19.info/',
                 Github: 'https://github.com/hoangmanhkhiem/',
+                Facebook: 'https://facebook.com/hoangmanhkhiem.IT/',
                 Instagram: 'https://instagram.com/hoang_manhkhiem/',
                 Telegram: 'https://t.me/hoangmanhkhiem/'
             },
@@ -46,8 +47,7 @@ class About extends Me {
     static buyMeACoffee () {
         if (you_like_what_i_do)
             try {
-                maybe_consider_buying_me_a_coffee();
-                return 'https://meewmeew.info/buymeacoffee';   
+                maybe_consider_donate()  
             } catch {
                 return 'Thanks for visiting !';
             }
