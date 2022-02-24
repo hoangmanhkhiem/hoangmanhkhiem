@@ -54,23 +54,109 @@ class About extends Me {
     }
 }
 ```
-# Languages and Tools
-<p align="left">
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-</a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.perl.org/" target="_blank"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+## <p align="center">You can reach me at 🌹</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/ngoctien.TNT">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
+  </a>
+	
+  <a href="https://github.com/ngoctienTNT">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
+  </a>
+  
+  <a href="https://dev.to/ngoctientnt">
+    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
+  </a>
+	
+  <a href="https://www.linkedin.com/in/ngoctientnt/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
+  </a>
+  
+  <a href="mailto:ngoctienTNT.vn@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
+  </a>
+	
+  <a href="https://www.instagram.com/ngoctien.tnt/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
+  </a>
+  
+  <a href="https://www.tiktok.com/@ngoctien_tnt/">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
+  </a>
+  
+  <a href="https://www.youtube.com/c/ThienLongTNT">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
+  </a>
 </p>
+
+## <p align="center">What I use :alien:</p>
+
+<table align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+	<a href="https://devdocs.io/cpp/">
+		<span>𝗖++</span><br><br><br>
+		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+	 </a>
+      </td>
+      <td width="20%" align="center">
+	 <a href="https://docs.microsoft.com/dotnet/csharp/">
+		<span>𝗖#</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+	 </a>
+      </td>
+      <td width="20%" align="center">
+	<a href="https://docs.oracle.com/java/">
+		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+	 </a>
+      </td>
+	<td width="20%" align="center">
+		<a href="https://dart.dev/guides">
+        <span>𝗗𝗮𝗿𝘁</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+		</a>
+      </td>
+      <td width="20%" align="center">
+	      <a href="https://docs.python.org/3/">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+	      </a>
+      </td>
+    </tr>
+    <tr valign="top">
+	<td width="20%" align="center">
+		<a href="https://code.visualstudio.com/docs">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+		</a>
+      </td>
+	<td width="20%" align="center">
+		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
+		</a>
+      </td>
+      <td width="20%" align="center">
+	      <a href="https://developer.android.com/docs">
+        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
+	      </a>
+      </td>
+	    <td width="20%" align="center">
+	<a href="https://docs.flutter.dev/">
+		<span>𝗙𝗹𝘂𝘁𝘁𝗲𝗿</span><br><br><br>
+		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
+	</a>
+      </td>
+      <td width="20%" align="center">
+	      <a href="https://git-scm.com/doc">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+	      </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
