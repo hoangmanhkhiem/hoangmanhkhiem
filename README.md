@@ -65,7 +65,7 @@ class About extends Me {
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
   </a>
   
-  <a href="https://dev.to/ngoctientnt">
+  <a href="https://dev.to/hoangmanhkhiem">
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
 	
