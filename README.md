@@ -20,9 +20,9 @@ class About extends Me {
     }
     static showProgrammingLevel () {
         return {
-            HTML: '90%',
+            HTML: '70%',
             Python: '80%',
-            C: '70',
+            C: '60',
             JavaScript: '45%',
             Java: '40%',
             NodeJS: '35%',
