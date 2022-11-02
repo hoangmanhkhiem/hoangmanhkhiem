@@ -18,21 +18,10 @@ class About extends Me {
             }
         }
     }
-    static showProgrammingLevel () {
-        return {
-            HTML: '70%',
-            Python: '80%',
-            C: '60',
-            JavaScript: '45%',
-            Java: '40%',
-            NodeJS: '35%',
-            SQL: '25%',
-        }
-    }
     static socialAndContact () {
         return {
             Social: {
-                Website: 'https://k19.info/',
+                Website: 'https://kenkyo.info/',
                 Github: 'https://github.com/hoangmanhkhiem/',
                 Facebook: 'https://facebook.com/hoangmanhkhiem.IT/',
                 Instagram: 'https://instagram.com/hoang_manhkhiem/',
@@ -43,16 +32,6 @@ class About extends Me {
             }
         }
     }
-    static donate () {
-        if (you_like_what_i_do)
-            try {
-                maybe_consider_donate();
-                return 'https://k19.info/donate'; 
-            } catch {
-                return 'Thanks for visiting !';
-            }
-    }
-}
 ```
 ## <p align="center">You can reach me at 🌹</p>
 
