@@ -18,20 +18,6 @@ class About extends Me {
             }
         }
     }
-    static socialAndContact () {
-        return {
-            Social: {
-                Website: 'https://kenkyo.info/',
-                Github: 'https://github.com/hoangmanhkhiem/',
-                Facebook: 'https://facebook.com/hoangmanhkhiem.IT/',
-                Instagram: 'https://instagram.com/hoang_manhkhiem/',
-                Telegram: 'https://t.me/hoangmanhkhiem/'
-            },
-            Contact: {
-                Email: 'khiemhm04@gmail.com'
-            }
-        }
-    }
 ```
 ## <p align="center">You can reach me at 🌹</p>
 
