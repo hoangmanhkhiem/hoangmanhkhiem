@@ -55,6 +55,10 @@ class About extends Me {
 <p align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=alduin">
 </p>
+## <p align="center">Profile stats :musical_keyboard:</p>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true">
+</p>
 
 ## <p align="center">Top langs :tongue:</p>
 
