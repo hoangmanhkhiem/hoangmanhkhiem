@@ -53,7 +53,7 @@ class About extends Me {
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=ngoctienTNT&theme=tokyonight&row=2&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15">
 </p>
 
 ## <p align="center">Top langs :tongue:</p>
