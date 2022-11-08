@@ -65,7 +65,7 @@ class About extends Me {
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{hoangmanhkhiem}/count.svg" alt="hoangmanhkhiem :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="hoangmanhkhiem :: Visitor's Count" /></p>
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 
 <p align='center'>
