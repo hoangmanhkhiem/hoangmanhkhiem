@@ -57,7 +57,7 @@ class About extends Me {
 </p>
 ## <p align="center">Profile stats :musical_keyboard:</p>
 <p align='center'>
-<img src="https://i.imgur.com/pGODqlu.png">
+<img src="https://i.imgur.com/RGHxumR.jpg">
 </p>
 
 ## <p align="center">Top langs :tongue:</p>
