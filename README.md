@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Khiem+!;Welcome+to+my+Github+!)](https://github.com/hoangmanhkhiem)
+n[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Khiem+!;Welcome+to+my+Github+!)](https://github.com/hoangmanhkhiem)
 
 [![Twitter: hoangmanhkhiem](https://img.shields.io/twitter/follow/hoangmanhkhiem?style=social)](https://twitter.com/hoangmanhkhiem)
 [![Linkedin: hoangmanhkhiem](https://img.shields.io/badge/-hoangmanhkhiem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoangmanhkhiem/)](https://www.linkedin.com/in/hoangmanhkhiem/)
@@ -62,7 +62,7 @@ class About extends Me {
 
  <p align="center">Top langs :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&langs_count=10&theme=tokyonight&layout=compact" alt="hoangmanhkhiem :: Top Langs" /></p>
  <p align="center">Visitor's count :eyes:</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="hoangmanhkhiem :: Visitor's Count" /></p>
