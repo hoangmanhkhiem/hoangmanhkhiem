@@ -81,12 +81,10 @@
 <p align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=hoangmanhkhiem&theme=alduin">
 </p>
- <p align="center">Profile stats :musical_keyboard:</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hoangmanhkhiem&show_icons=true&theme=tokyonight" alt="hoangmanhkhiem :: Profile Stats" /></p>
-
- <p align="center">Top langs :tongue:</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&langs_count=10&theme=tokyonight&layout=compact" alt="hoangmanhkhiem :: Top Langs" /></p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangmanhkhiem&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+</p>
  <p align="center">Visitor's count :eyes:</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{hoangmanhkhiem}/count.svg" alt="hoangmanhkhiem :: Visitor's Count" /></p>
