@@ -93,5 +93,5 @@
 <br>
 
 
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+<img align="right" src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1"/>
