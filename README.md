@@ -10,7 +10,6 @@
 ![GNOME Terminal](https://img.shields.io/static/v1?style=for-the-badge&message=GNOME+Terminal&color=241F31&logo=GNOME+Terminal&logoColor=FFFFFF&label=)
 ![Termius](https://img.shields.io/static/v1?style=for-the-badge&message=Termius&color=000000&logo=Termius&logoColor=FFFFFF&label=)
 
-
 ### My Tech Stack
 #### Website
 ![Jetpack Compose](https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=)
@@ -82,18 +81,26 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@hoangmanhkhiem)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hoangmanhkhiem)
 
- <p align="center">GitHub Profile Trophy 🏆</p>
+## <p align="center">Profile Views</p>
+## <p align="center">[![Hits](https://hits.sh/github.com/hoangmanhkhiem/hoangmanhkhiem.svg?style=for-the-badge&label=Views&extraCount=10934&color=54856b)](https://hits.sh/github.com/hoangmanhkhiem/hoangmanhkhiem/)</p>
+
+## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align="center">
 <img src="https://github-trophies.vercel.app/?username=hoangmanhkhiem&title=Stars,MultipleLang,LongTimeUser,Repositories,Commits,Follower&theme=gitdimme" >
 </p>
+
+## <p align="center"> Top Langs </p>
+
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&layout=compact&theme=dark" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&layout=compact&theme=dark" alt="My Github Top Langs">
+</p>
+
+## <p align="center">Profile stats</p>
+
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangmanhkhiem&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
- <p align="center">Visitor's count :eyes:</p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{hoangmanhkhiem}/count.svg" alt="hoangmanhkhiem :: Visitor's Count" /></p>
 
 <hr>
 <br>
