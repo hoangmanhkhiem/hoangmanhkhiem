@@ -79,7 +79,7 @@
  <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=hoangmanhkhiem&theme=alduin">
+<img src="https://github-profile-trophy.vercel.app/?username=hoangmanhkhiem&theme=juicyfresh">
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&layout=compact&theme=radical" alt="My Github Stats">
