@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Khiem+!;Welcome+to+my+Github+!)](https://github.com/hoangmanhkhiem)
 
   
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me....  
+## <p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ABOUT ME </p>
 
 ### Version Control
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
@@ -90,12 +90,14 @@
 <img src="https://github-trophies.vercel.app/?username=hoangmanhkhiem&title=Stars,MultipleLang,LongTimeUser,Repositories,Commits,Follower&theme=gitdimme" >
 </p>
 
+##
 ## <p align="center"> Top Langs </p>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&layout=compact&theme=dark" alt="My Github Top Langs">
 </p>
 
+##
 ## <p align="center">Profile stats</p>
 
 <p align="center">
