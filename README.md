@@ -78,7 +78,7 @@
 
  <p align="center">GitHub Profile Trophy 🏆</p>
 
-<p align='center'>
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=hoangmanhkhiem&theme=juicyfresh">
 </p>
 <p align="center">
