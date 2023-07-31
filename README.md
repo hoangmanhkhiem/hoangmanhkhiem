@@ -85,10 +85,10 @@
  <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hoangmanhkhiem&theme=juicyfresh">
+<img src="https://github-trophies.vercel.app/?username=hoangmanhkhiem&title=Stars,MultipleLang,LongTimeUser,Repositories,Commits,Follower&theme=gitdimme" >
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&layout=compact&theme=dark" alt="My Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangmanhkhiem&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
  <p align="center">Visitor's count :eyes:</p>
