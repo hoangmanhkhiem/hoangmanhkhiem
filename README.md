@@ -82,7 +82,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hoangmanhkhiem)
 
 ## <p align="center">Profile Views</p>
-## <p align="center">[![Hits](https://hits.sh/github.com/hoangmanhkhiem/hoangmanhkhiem.svg?style=for-the-badge&label=Views&extraCount=10934&color=54856b)](https://hits.sh/github.com/hoangmanhkhiem/hoangmanhkhiem/)</p>
+## <p align="center">[![Hits](https://hits.sh/github.com/hoangmanhkhiem/hoangmanhkhiem.svg?style=for-the-badge&label=Views&extraCount=17482&color=54856b)](https://hits.sh/github.com/hoangmanhkhiem/hoangmanhkhiem/)</p>
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
