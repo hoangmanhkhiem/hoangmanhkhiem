@@ -94,7 +94,7 @@
 ## <p align="center"> Top Langs </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&layout=compact&theme=dark" alt="My Github Top Langs">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&langs_count=10&layout=compact&theme=dark" alt="My Github Top Langs">
 </p>
 
 ##
