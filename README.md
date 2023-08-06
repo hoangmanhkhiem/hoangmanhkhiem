@@ -107,6 +107,6 @@
 <hr>
 <br>
 
-
-<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
-<img align="right" src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1"/>
+<p align="center">
+<img align="center" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+</p>
