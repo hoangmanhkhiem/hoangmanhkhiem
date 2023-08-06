@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Khiem+!;Welcome+to+my+Github+!)](https://github.com/hoangmanhkhiem)
+## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=F76407&center=true&vCenter=true&multiline=true&width=550&height=150&lines=Hello%2C+My+Name's+Hoang+Manh+Khiem!;You+can+call+me+Khiem+or+Skromnyy!;Welcome+to+my+Github!)](https://git.io/typing-svg)</p>
 
   
 ## <p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ABOUT ME </p>
