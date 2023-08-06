@@ -1,7 +1,7 @@
 ## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=F76407&center=true&vCenter=true&multiline=true&width=550&height=150&lines=Hello%2C+My+Name's+Hoang+Manh+Khiem!;You+can+call+me+Khiem+or+Skromnyy!;Welcome+to+my+Github!)](https://git.io/typing-svg)</p>
 
   
-## <p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ABOUT ME </p>
+## <p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ABOUT ME <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="40px" /></p>
 
 ### Version Control
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
