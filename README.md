@@ -3,7 +3,7 @@
   
 ## <p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ABOUT ME <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="40px" /></p>
 
-
+<p align = "center">
 <img align="right" width="175" alt="avt" src="src/avata.png"/>
 
 | | |
@@ -15,6 +15,7 @@
 |University |    University of Transport and Communications|
 |Specialization         |    High quality information technology|
 | | |
+</p>
 
 ##
 
