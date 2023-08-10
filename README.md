@@ -13,8 +13,6 @@
 
 ### University : University of Transport and Communications
 #### Specialization: High quality information technology
-### Course : 63
-
 
 
 ##
