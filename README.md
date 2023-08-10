@@ -16,7 +16,7 @@
 
 
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/facebook.svg" >](https://facebook.com/hoangmanhkhiem.IT/)
+
 
 ##
 
