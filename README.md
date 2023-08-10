@@ -12,8 +12,8 @@
 |Birthday       | 2004 |
 |City           | Ha Noi Capital|
 |Profession     |I'm 19+ years old Self-taught Data Scientist from Viet Nam.|
-|University         |    University of Transport and Communications|
-|Specialization:            |    High quality information technology|
+|University |    University of Transport and Communications|
+|Specialization         |    High quality information technology|
 | | |
 
 ##
