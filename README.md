@@ -6,8 +6,7 @@
 
 <img align="right" width="200" alt="avt" src="src/avata.png"/>
 
-### Full Name: Hoang Manh Khiem
-### NickName : KProtect|Skromnyy
+### Full Name: Hoang Manh Khiem (KProtect|Skromnyy)
 ### Birthday : 2004 
 ### City : Ha Noi Capital
 ### I'm 19+ years old Self-taught Data Scientist from Viet Nam.
