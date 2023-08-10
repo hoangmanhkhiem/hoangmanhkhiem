@@ -3,8 +3,9 @@
   
 ## <p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ABOUT ME <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="40px" /></p>
 
-<img algin="right" src="src/avata.png">
-
+<p align="right">
+<img src="src/avata.png">
+</p>
 
 ##
 
