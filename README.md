@@ -4,7 +4,7 @@
 ## <p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ABOUT ME <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="40px" /></p>
 
 <p align="right">
-<img src="src/avata.png" weight=40 hight=50>
+<img src="src/avata.png" width = "200" alt="hmk">
 </p>
 
 ##
