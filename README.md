@@ -3,6 +3,8 @@
   
 ## <p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ABOUT ME <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="40px" /></p>
 
+
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
 ### Hi 🙋‍♂️,
 ### I'm 18 years old Self-taught Full-Stack developer from India.
 
