@@ -104,7 +104,7 @@
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align="center">
-<img src="https://github-trophies.vercel.app/?username=hoangmanhkhiem&title=Stars,MultipleLang,LongTimeUser,Repositories,AchieveSuperRank,Issues,MultipleOrganizations&theme=gitdimme" >
+<img src="https://github-trophies.vercel.app/?username=hoangmanhkhiem&theme=gitdimmed&row=2&column=4">
 </p>
 
 ##
