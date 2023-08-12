@@ -106,7 +106,7 @@
 </p>
 
 ##
-## <p align="center">Github Statistics</p>
+## <p align="center">Github Statistics 📊</p>
 
 <div align="center">
 <!--   "https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=percentile" -->
