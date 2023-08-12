@@ -37,7 +37,7 @@
 ![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 
-#### Data Scientist
+#### Data Scientist && ML/AI
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
 ![OpenAI Gym](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI+Gym&color=0081A5&logo=OpenAI+Gym&logoColor=FFFFFF&label=)
@@ -98,32 +98,27 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@hoangmanhkhiem)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hoangmanhkhiem)
 
-## <p align="center">Profile Views</p>
-## <p align="center">[![Hits](https://hits.sh/github.com/hoangmanhkhiem/hoangmanhkhiem.svg?style=for-the-badge&label=Views&extraCount=17482&color=54856b)](https://hits.sh/github.com/hoangmanhkhiem/hoangmanhkhiem/)</p>
-
+##
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align="center">
-<img src="https://github-trophies.vercel.app/?username=hoangmanhkhiem&theme=gitdimmed&row=3&column=3">
+<img src="https://github-trophies.vercel.app/?username=hoangmanhkhiem&theme=gitdimmed&row=1&column=9">
 </p>
 
 ##
-## <p align="center"> Top Langs </p>
+## <p align="center">Github Statistics</p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&langs_count=5&layout=donut&theme=dark" alt="My Github Top Langs">
-</p>
+<div align="center">
+<!--   "https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=percentile" -->
+<img height="125px" src="https://github-readme-stats.vercel.app/api?username=hoangmanhkhiem&show_icons=true&theme=dracula" />
+<img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&hide=html&layout=compact&theme=dracula" />
+<img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangmanhkhiem&hide=html&layout=compact&theme=dracula" />
+</div>
 
-##
-## <p align="center">Profile stats</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangmanhkhiem&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
-</p>
 
 <hr>
 <br>
 
 <p align="center">
-<img align="center" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+<img align='center' height='400' src='https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif' alt='Skills'>
 </p>
