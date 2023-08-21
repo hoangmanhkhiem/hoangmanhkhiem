@@ -12,7 +12,7 @@
 |Full Name      |Hoang Manh Khiem (KProtect/Skromnyy)|
 |Birthday       | 2004 |
 |Location           | Ha Noi Capital, Viet Nam|
-|Profession     |I'm 19+ years old Self-taught Data Scientist from Viet Nam.|
+|Profession     | I'm 19+ years old Self-taught Data Scientist from Viet Nam.|
 |University |    University of Transport and Communications|
 |Specialization         |    High quality information technology|
 | | |
