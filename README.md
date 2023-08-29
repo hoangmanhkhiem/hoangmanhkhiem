@@ -5,7 +5,6 @@
 
 
 
-<img align="right" width="175" alt="avt" src="src/avata.png"/>
 
 | | |
 | - | - |
