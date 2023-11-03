@@ -99,7 +99,7 @@
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align="center">
-<img src="https://github-trophies.vercel.app/?username=hoangmanhkhiem&theme=gitdimmed&row=1&column=9">
+<img src="https://github-trophies.vercel.app/?username=hoangmanhkhiem&theme=gitdimmed&row=1&column=10">
 </p>
 
 ##
