@@ -1,5 +1,4 @@
 ## <p align="left">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoco&size=25&duration=4000&pause=500&color=3529F7&multiline=true&width=435&height=70&lines=+%F0%9F%91%8B++Hello%2C+I'm+Khiem!;Welcome+to+my+Github!+%F0%9F%9A%80)](https://git.io/typing-svg)</p>
-
   
 ## <p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ABOUT ME <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="40px" /></p>
 
