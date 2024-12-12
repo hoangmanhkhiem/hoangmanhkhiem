@@ -108,7 +108,7 @@
 <!--   "https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=percentile" -->
 <img height="125px" src="https://github-readme-stats.vercel.app/api?username=hoangmanhkhiem&show_icons=true&theme=dracula" />
 <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&hide=html&layout=compact&theme=dracula" />
-<img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangmanhkhiem&hide=html&layout=compact&theme=dracula" />
+<img height="120px" src="https://github-readme-streak-stats.herokuapp.com?user=hoangmanhkhiem&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 
