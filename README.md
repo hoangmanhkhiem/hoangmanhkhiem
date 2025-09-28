@@ -9,7 +9,7 @@
 |Full Name      |Hoang Manh Khiem (KProtect/Skromnyy)|
 |Birthday       | 2004 |
 |Location           | Ha Noi Capital, Viet Nam|
-|Profession     | Solution Architect Junior & AI Intern passionate about secure cloud systems & machine learning ||
+|Profession     | SA Junior & AI Intern|
 |University |    University of Transport and Communications|
 |Specialization         |    High quality information technology|
 | | |
