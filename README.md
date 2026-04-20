@@ -7,9 +7,8 @@
 | | |
 | - | - |
 |Full Name      |Hoang Manh Khiem (KProtect/Skromnyy)|
-|Birthday       | 2004 |
 |Location           | Ha Noi Capital, Viet Nam|
-|Profession     | SA Junior & AI Intern|
+|Profession     | SA Junior & AI Engineer |
 |University |    University of Transport and Communications|
 |Specialization         |    High quality information technology|
 | | |
